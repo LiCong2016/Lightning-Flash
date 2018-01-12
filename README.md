@@ -1,2 +1,2 @@
-# -Lightning-Flash
+# Lightning-Flash
 study repo 
